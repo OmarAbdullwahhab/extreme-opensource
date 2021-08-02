@@ -30,7 +30,8 @@ import static java.lang.annotation.RetentionPolicy.RUNTIME;
 import java.lang.annotation.Target;
 
 /**
- * 
+ * to detected an entity that its not mapped to its table but to
+ * its parent table
  * @author Omar Rashwan
  * @date : 02-08-2021 12:00 AM
  */

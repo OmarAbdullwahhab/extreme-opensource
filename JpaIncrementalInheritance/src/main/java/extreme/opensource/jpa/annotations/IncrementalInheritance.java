@@ -30,7 +30,7 @@ import static java.lang.annotation.RetentionPolicy.RUNTIME;
 import java.lang.annotation.Target;
 
 /**
- * 
+ * annotates a base class for incremental inheritance hierarchy
  * @author Omar Rashwan
  * @date : 02-08-2021 12:00 AM
  */
