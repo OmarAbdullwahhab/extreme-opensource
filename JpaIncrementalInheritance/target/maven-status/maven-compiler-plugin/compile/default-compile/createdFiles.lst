@@ -1,0 +1,10 @@
+extreme\opensource\jpa\entities\UserBasicInfo.class
+extreme\opensource\jpa\HrUserExample.class
+extreme\opensource\jpa\orm\SqlGenerator.class
+extreme\opensource\jpa\entities\SystemUser.class
+extreme\opensource\jpa\SystemAdministratorUserExample.class
+extreme\opensource\jpa\inheritance\ExtremeInheritanceTypes.class
+extreme\opensource\jpa\Application.class
+extreme\opensource\jpa\orm\OrmManager.class
+extreme\opensource\jpa\entities\Employee.class
+extreme\opensource\jpa\inheritance\ExtremeInheritance.class
